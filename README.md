@@ -2,7 +2,7 @@
 
 I'm a passionate polyglot software development engineer insterested in problem solvings. 
 
-![https://www.linkedin.com/in/pmurugesan1984/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 <!--
 **Panchatcharam/panchatcharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
